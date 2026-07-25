@@ -84,11 +84,11 @@ https://zzuli.dogxi.me
 | promise          | [tiki-47](https://github.com/tiki-47)                   |                                                |
 | Huan Huang       | [ViewsHuang](https://github.com/ViewsHuang)             |                                                |
 | shuaibinchen     | [ctf102](https://github.com/ctf102)                     |                                                |
-| Z Y              | [iyangzh](https://github.com/iyangzh)                   | [孤梭の个人博客](https://iyangzh.github.io/)   |
+| Z Y              | [iyangzh](https://github.com/iyangzh)                   | [孤梭の个人博客](https://iyangzh.github.io/)    |
 | Ms_XiaoTian      | [MsXiaoT](https://github.com/MsXiaoT)                   |                                                |
 | lj200612         | [lj200612](https://github.com/lj200612)                 | [JiePress](https://www.jiepress.cn/)           |
 | H.Y              | [mshzy](https://github.com/mshzy)                       |                                                |
-| MoQix26          | [MoQix26](https://github.com/moqix26)                   |                                                |
+| MoQix26          | [MoQix26](https://github.com/moqix26)                   | [MoQix26's Blog](https://moqix26.top)          |
 
 ---
 
